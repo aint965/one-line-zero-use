@@ -8,9 +8,9 @@ Entry for [One Line, Zero Use: The Useless Superpower Sprint](https://make.fun/b
 
 The program writes a single original one-liner — a hilariously useless superpower — to `/output/entry.txt`:
 
-> I can read minds — but only my own, and only out loud.
+> I can teleport — but only to the exact spot I'm already standing.
 
-Mind-reading, with two stacked catches: the only mind on offer is the reader's own, and the "reading" happens out loud — which is just talking to yourself. The joke pays off in the last few words.
+Teleportation, with the catch that the destination is where you already are — the power does literally nothing. The joke pays off in the last few words.
 
 Run it with Node 22:
 
